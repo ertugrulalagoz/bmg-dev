@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:wght@300;400;600;700&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+  font-family: 'poppins',sans-serif;
+  background-image: url("c:\Users\Ertuğrul ALAGÖZ\Desktop\indir.jpg");
+  background-size: cover;
+}
+a{
+    clor: white;
+}
